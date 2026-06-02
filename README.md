@@ -1,7 +1,22 @@
 # nature-skills
-大家好，我是上海交通大学博士生袁一哲，目前主要从事医疗 AI 相关的研究与创业实践。欢迎大家持续关注 nature-skill。如果你有任何需求，欢迎提交 issue；如果我们认为该需求有意义且可行，也会尽量推进实现。我们同样欢迎 PR，但请务必按照 README 后面说明的格式提交，以便我们更高效地审核与合并。
+大家好，我是上海交通大学博士生袁一哲，目前主要从事医疗 AI 相关的研究与创业实践，计划落地浦东张江！有病理专病或者泛癌万人以上队列的朋友，正在创业的伙伴亦或者欣赏我的投资人等等可以添加我的个人微信，务必备注来意。感谢大家持续关注 nature-skill。如果你有任何需求，欢迎提交 issue；如果我们认为该需求有意义且可行，也会尽量推进实现。我们同样欢迎 PR，但请务必按照 README 后面说明的格式提交，以便我们更高效地审核与合并。
+<table>
+  <tr>
+    <td align="center">
+      <b>个人微信</b><br>
+      <img width="400" alt="个人微信" src="https://github.com/user-attachments/assets/9e2931fb-748b-418e-97ab-0515d191633d" />
+    </td>
+    <td align="center">
+      <b>个人介绍</b><br>
+      <img width="400" alt="个人介绍" src="https://github.com/user-attachments/assets/ef355bb8-7189-49a1-bfe0-b1c7dcc7e04e" />
+    </td>
+  </tr>
+</table>
 
-Hello everyone, I’m Yuan Yizhe, a PhD student at Shanghai Jiao Tong University. I’m currently working on research and entrepreneurial projects in medical AI. Thank you for your continued interest in nature-skill. If you have any requests, feel free to open an issue. If we find the request meaningful and feasible, we’ll do our best to implement it. We also welcome PRs, but please make sure to follow the submission format described later in the README so that we can review and merge them more efficiently.
+Hello everyone, I'm Yizhe Yuan, a Ph.D. candidate at Shanghai Jiao Tong University. My work primarily focuses on Medical AI research and entrepreneurial initiatives, and I am currently planning to establish related ventures in Zhangjiang, Pudong (Shanghai).
+If you have access to disease-specific pathology cohorts or large-scale pan-cancer cohorts (10,000+ patients), are building a startup in a related field, or are an investor interested in my work, feel free to connect with me via WeChat. Please include a brief note explaining the purpose of your contact request.
+Thank you for your continued interest in nature-skill.
+If you have any feature requests or suggestions, please feel free to submit an Issue. If we find the proposal meaningful and feasible, we will do our best to implement it. We also welcome Pull Requests (PRs). However, please follow the contribution format described later in this README to help us review and merge submissions more efficiently.
 
 ## 📢 课题组诚招“医学 + AI”实习生
 <table border="0" cellpadding="10" cellspacing="0">
